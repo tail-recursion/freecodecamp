@@ -1,0 +1,55 @@
+input[type=number] {
+    border:0px;
+    max-width:120px;
+    height:80px;
+    font-size:40px;
+    font-family:Orbitron;
+    text-align:center;
+}
+
+p {
+    margin-top: 5px !important;
+    margin-left: 20px !important;
+    font-size:35px;
+    text-align:left;
+}
+
+label, h1 {
+    font-family:Orbitron;
+    font-size:40px;
+}
+
+button {
+    max-width: 520px;
+}
+
+#countdownTimer {
+    width:100%;
+    max-width: 540px;
+    font-family: Orbitron;
+    font-size: 40px;
+    height:65px;
+    text-align:center;
+}
+
+
+form {
+    margin: 0 auto;
+    border: 5px solid grey;
+    border-radius:15px;
+    border-color: #dcdee2;
+}
+body {
+    font-family: Orbitron;
+}
+#sessionP {
+    margin-top:15px !important;
+}
+
+#btnReset {
+    margin-top:0px;
+}
+
+.btntext {
+
+}
