@@ -1,0 +1,14 @@
+#board {
+    max-width:300px;
+}
+
+
+.col-xs-4 {
+    border: 1px solid black;
+    font-size:100px;
+}
+
+.token {
+    font-family: Nanum Pen Script;
+    margin-top:-10px;
+}
