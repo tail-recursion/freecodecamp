@@ -28,4 +28,4 @@ e
 
 * [Tic Tac Toe](https://codepen.io/dalematthews/full/KQXyom/)
 
-* Simon Game (TODO)
+* [Simon Game](https://codepen.io/dalematthews/pen/ddJOpX)
